@@ -1,6 +1,6 @@
 #  Bonjour, je suis SEOZOUMON ! 
 
-**Élève Ingénieur en Cybersécurité Automobile & Systèmes Embarqués**
+**Élève Ingénieur Automobile et Solutions Digitales et passioné de la Cybersécurité Automobile & Systèmes Embarqués**
 
 Passionné par le *Software-Defined Vehicle (SDV)*, je me spécialise dans la sécurisation des réseaux de bord et le développement de systèmes embarqués critiques. Mon objectif : anticiper et contrer les vulnérabilités de la mobilité connectée de demain.
 
